@@ -1,4 +1,4 @@
-#Just some uploads from my 2017 Cambridge mathematics Part II's Computer-Aided Teaching of All Mathematics (CATAM) coursework, in Python.
+// Just some uploads from my 2017 Cambridge mathematics Part II's Computer-Aided Teaching of All Mathematics (CATAM) coursework, in Python. //
 
 BQF // some functions for the calculation and reduction of binary quadratic forms (over Z), computation of the class group for a particular discriminant, and an application to factoring over Z.
 
